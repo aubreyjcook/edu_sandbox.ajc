@@ -26,6 +26,9 @@ This repository is a technology-agnostic sandbox environment for educational and
 - [SQL](sql)
 - [GraphQL](graphql)
 - [PostgreSQL](postgresql)
+- [C](c)
+- [C++](cpp)
+- [Java](java)
 - [Unspecified](unspecified)
 
 ## License
