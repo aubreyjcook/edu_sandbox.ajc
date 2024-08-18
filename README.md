@@ -16,6 +16,7 @@ This repository is a technology-agnostic sandbox environment for educational and
 - [JavaScript](javascript)
 - [Node.js](nodejs)
 - [React](react)
+- [React Native](reactnative)
 - [Next.js](nextjs)
 - [TypeScript](typescript)
 - [Tailwind CSS](tailwindcss)
