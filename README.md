@@ -12,6 +12,8 @@ This repository is a technology-agnostic sandbox environment for educational and
 
 ## Technologies
 
+- [Windows](windows)
+- [Linux](linux)
 - [Python](python)
 - [JavaScript](javascript)
 - [Node.js](nodejs)
